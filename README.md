@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Vasanthakumar S
 
-### 🤖 AI Engineer • 💻 Full-Stack Developer • 🧠 AI & Data Science
+### AI & Machine Enthusiast |Creative Thinker | Prompt Engineer/ | Full-Stack Developer
 
 **Building intelligent systems from ideas to applications 🚀**
 
