@@ -1,12 +1,10 @@
 <!-- ========================================================= -->
-
 <!--              VASANTHAKUMAR S • GITHUB PROFILE            -->
-
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,30:3B1D73,65:6C3CE9,100:9D4EDD&text=VASANTHAKUMAR%20S&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descSize=18&descAlignY=61" />
+<img width="100%" src="https://raw.githubusercontent.com/itz-vk-dude/itz-vk-dude/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png" alt="Vasanthakumar S Banner" />
 
 # 👋 Hi, I'm Vasanthakumar S
 
@@ -24,7 +22,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude)
 [![Repositories](https://img.shields.io/badge/PROJECTS-6C3CE9?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vasanthakumarselvakumar9)
 
 </div>
 
@@ -452,8 +450,6 @@ A browser-based game project exploring Django, Python backend development, and f
 
 ---
 
-
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -493,11 +489,11 @@ A browser-based game project exploring Django, Python backend development, and f
 
 [![GitHub](https://img.shields.io/badge/GitHub-itz--vk--dude-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanthakumar_S-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanthakumar_S-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vasanthakumarselvakumar9)
 
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vasanthakumarselvakumar09@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C3CE9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C3CE9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vasanthkumar-portfolio.vercel.app/)
 
 <br><br>
 
