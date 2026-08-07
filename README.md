@@ -8,9 +8,9 @@
 
 # 👋 Hi, I'm Vasanthakumar S
 
-### AI & Machine Enthusiast |Creative Thinker | Prompt Engineer/ | Full-Stack Developer
+### AI & Machine Enthusiast • Creative Thinker • Prompt Engineer • Full-Stack Developer
 
-**Building intelligent systems from ideas to applications 🚀**
+*"I carry dreams in my hands, and turn them into worlds."*
 
 <br>
 
@@ -20,9 +20,13 @@
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude)
-[![Repositories](https://img.shields.io/badge/PROJECTS-6C3CE9?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vasanthakumarselvakumar9)
+### 📬 Contact Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-itz--vk--dude-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude)
+[![Projects](https://img.shields.io/badge/PROJECTS-6C3CE9?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanthakumar_S-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vasanthakumarselvakumar9)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vasanthakumarselvakumar09@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C3CE9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vasanthkumar-portfolio.vercel.app/)
 
 </div>
 
@@ -479,34 +483,16 @@ A browser-based game project exploring Django, Python backend development, and f
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
-
-### 💬 Have an idea? Let's build something intelligent.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-itz--vk--dude-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itz-vk-dude)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanthakumar_S-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vasanthakumarselvakumar9)
-
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vasanthakumarselvakumar09@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6C3CE9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vasanthkumar-portfolio.vercel.app/)
-
-<br><br>
-
----
 
 ## 💭 My Philosophy
 
-### *"I carry dreams in my hands and turn them into intelligent solutions."*
+### *"I carry dreams in my hands, and turn them into worlds."*
 
 **Think • Build • Experiment • Learn • Improve • Repeat**
 
 <br>
 
-⭐ **Explore my repositories to see what I'm building.**
+⭐ **Explore my repositories to see what I'm building — or scroll up and reach out!**
 
 </div>
